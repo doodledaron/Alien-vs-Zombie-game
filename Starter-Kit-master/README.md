@@ -1,6 +1,6 @@
 # Alien vs. Zombie
 
-![Signature screenshot](screenshot.png)
+![Signature screenshot](screenshotMain.png)
 
 This is the link of the demo (https://youtu.be/N-zW7AZEOGs).
 
